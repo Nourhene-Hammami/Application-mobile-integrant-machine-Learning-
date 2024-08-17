@@ -1,0 +1,1 @@
+Ce projet est de développement et réalisation d’une application mobile intégrant le machine learning et la reconnaissance faciale, permettant aux clients de classifier les images prises par la caméra.
